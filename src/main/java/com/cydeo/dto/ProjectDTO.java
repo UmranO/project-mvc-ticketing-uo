@@ -1,6 +1,6 @@
 package com.cydeo.dto;
 
-import ch.qos.logback.core.status.Status;
+import com.cydeo.enums.Status;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
