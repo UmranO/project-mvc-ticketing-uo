@@ -1,4 +1,8 @@
 package com.cydeo.service;
 
-public interface TaskService {
+import com.cydeo.dto.TaskDTO;
+
+public interface TaskService extends CrudService<TaskDTO,Long>{
+
+
 }
