@@ -22,5 +22,8 @@ import java.time.LocalDate;
         private String projectDetail;
         private Status projectStatus;
 
+        private int completeTaskCounts;
+        private int unfinishedTaskCounts;
+
     }
 
